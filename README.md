@@ -7,7 +7,7 @@
 * Свободный и счастливый 
 
 
-![Логотип](https://github.com/nsotnikov16/logo.png "Мой логотип")
+![Логотип](https://github.com/nsotnikov16/nsotnikov16/blob/main/logo.png "Мой логотип")
 
 
 
