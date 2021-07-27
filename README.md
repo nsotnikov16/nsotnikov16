@@ -4,13 +4,10 @@
 ### Меня зовут Никита
 
 * :computer: Программирую и радуюсь жизни :v:
-* Создаю красивые и удобные интерфейсы
-* Забочусь о чистоте и документировании кода
-* Свободный и счастливый 
+* :bulb: Создаю красивые и удобные интерфейсы :boom:
+* :white_circle: Забочусь о чистоте и документировании кода :pencil:
 
-
-* :wrench: Стек
-**Front-end**
+* :wrench: **Стек**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,8 +22,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ![Моя статистика](https://github-readme-stats.vercel.app/api?username=nsotnikov16&show_icons=true)
 	
-
 ![Логотип](https://github.com/nsotnikov16/nsotnikov16/blob/main/logo.png "Мой логотип")
