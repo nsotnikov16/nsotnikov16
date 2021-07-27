@@ -23,5 +23,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Моя статистика](https://github-readme-stats.vercel.app/api?username=nsotnikov16&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsotnikov16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsotnikov16&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 ![Логотип](https://github.com/nsotnikov16/nsotnikov16/blob/main/logo.png "Мой логотип")
