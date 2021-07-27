@@ -24,5 +24,4 @@
 
 ![Моя статистика](https://github-readme-stats.vercel.app/api?username=nsotnikov16&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsotnikov16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsotnikov16)](https://git.io/streak-stats)
 ![Логотип](https://github.com/nsotnikov16/nsotnikov16/blob/main/logo.png "Мой логотип")
