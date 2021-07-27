@@ -22,6 +22,5 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![Моя статистика](https://github-readme-stats.vercel.app/api?username=nsotnikov16&show_icons=true)
-	
+![Моя статистика](https://github-readme-stats.vercel.app/api?username=nsotnikov16&show_icons=true)	
 ![Логотип](https://github.com/nsotnikov16/nsotnikov16/blob/main/logo.png "Мой логотип")
