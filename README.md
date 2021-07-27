@@ -1,6 +1,5 @@
 ## **Добро пожаловать в мой профиль GitHub!**
 
-![Логотип](https://github.com/nsotnikov16/nsotnikov16/blob/main/logo.png "Мой логотип")
 
 ### Меня зовут Никита
 
@@ -29,3 +28,5 @@
 
 ![Моя статистика](https://github-readme-stats.vercel.app/api?username=nsotnikov16&show_icons=true)
 	
+
+![Логотип](https://github.com/nsotnikov16/nsotnikov16/blob/main/logo.png "Мой логотип")
