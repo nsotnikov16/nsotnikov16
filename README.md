@@ -6,6 +6,11 @@
 * Забочусь о чистоте и документировании кода
 * Свободный и счастливый 
 
+
+![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
+
+
+
 * :wrench: Стек
 **Front-end**
 
