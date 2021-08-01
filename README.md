@@ -25,3 +25,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsotnikov16&hide=issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsotnikov16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Логотип](https://github.com/nsotnikov16/nsotnikov16/blob/main/logo.png "Мой логотип")
+![Telegram](https://gist.github.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1#file-telegram-single-path-24px-svg)
