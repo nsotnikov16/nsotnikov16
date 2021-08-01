@@ -23,7 +23,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### 📧 Email: nsotnikov16@yandex.ru
-#### ![Telegram](https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-single-path-24px.svg) Telegram: nstnkv
+#### ![Telegram](https://github.com/nsotnikov16/nsotnikov16/blob/main/telegram.png "Telegram") Telegram: nstnkv
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsotnikov16&hide=issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsotnikov16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
